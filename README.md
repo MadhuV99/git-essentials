@@ -1,4 +1,4 @@
-# git-essentials
+Git Essentials - Git for Everybody
 
-## Some new stuff in here
+A Course undertaken by Madhu Vasudevan
 
